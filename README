@@ -1,11 +1,9 @@
  -= MiniUPnP project =-
-
 Main author : Thomas BERNARD
 Web site : http://miniupnp.free.fr/ or https://miniupnp.tuxfamily.org/
 Github : https://github.com/miniupnp/miniupnp/
 Travis CI : https://travis-ci.org/miniupnp/miniupnp
 Appveyor : https://ci.appveyor.com/project/miniupnp/miniupnp
-
 miniupnpc/ : MiniUPnP client - an UPnP IGD control point
 miniupnpd/ : MiniUPnP daemon - an implementation of a UPnP IGD
                                + NAT-PMP / PCP gateway
@@ -15,7 +13,6 @@ miniupnpc-async/    : Proof of concept for a UPnP IGD control point using
                       asynchronous (non blocking) sockets.
 miniupnpc-libevent/ : UPnP IGD control point using libevent2
                       http://libevent.org/
-
 Thanks to :
     * Ryan Wagoner
     * João Paulo Barraca
