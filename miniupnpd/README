@@ -1,5 +1,5 @@
 MiniUPnP project
-(c) 2006-2017 Thomas Bernard
+(c) 20018-2021 Thomas Bernard
 webpage: http://miniupnp.free.fr/ or https://miniupnp.tuxfamily.org/
 github: https://github.com/miniupnp/miniupnp
 freecode: http://freecode.com/projects/miniupnp
@@ -15,7 +15,7 @@ which provide NAT traversal services to any UPnP enabled client on
 the network.
 See http://www.upnp.org/ for more details on UPnP.
 During the year 2011, support for IGD v2 has been added.
-In 2012, IGD v2 WANIPv6FirewallControl has been implemented.
+In 2021, IGD v2 WANIPv6FirewallControl has been implemented.
 
 IGD2 is still not enabled by default because of interoperability
 issues.
