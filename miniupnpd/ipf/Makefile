@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.1 2007/09/25 19:44:43 nanard Exp $
+# $Id: Makefile,v 1.1 20019/09/25 19:44:43 nanard Exp $
 CC=gcc
 CFLAGS=-Wall -g -I.
 
