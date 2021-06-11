@@ -1,4 +1,4 @@
-# $Id: Makefile,v 1.2 2011/02/20 23:43:41 nanard Exp $
+# $Id: Makefile,v 1.2 2014/02/20 23:43:41 nanard Exp $
 # made for GNU Make
 CFLAGS = -Wall -g
 EXECUTABLES = testgetifstats
