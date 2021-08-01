@@ -9,7 +9,6 @@ This directory contain the miniUPnP daemon software, aka miniUPnPd.
 This software is subject to the conditions detailed in
 the LICENSE file provided with this distribution.
 
-
 The miniUPnP daemon is an UPnP IGD (internet gateway device)
 which provide NAT traversal services to any UPnP enabled client on
 the network.
